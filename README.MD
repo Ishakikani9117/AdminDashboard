@@ -9,10 +9,12 @@
 
 This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app).
 
+
+Check out the deployed version of the application [here](https://admin-dashboard-t12d-nlq36w6dz-isha-kikanis-projects.vercel.app)
 ## Getting Started
 
 A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility ✨
-Check out the deployed version of the application [here](https://admin-dashboard-t12d-nlq36w6dz-isha-kikanis-projects.vercel.app)
+
 
 Refine's hooks and components simplifies the development process and eliminates the repetitive tasks by providing industry-standard solutions for crucial aspects of a project, including authentication, access control, routing, networking, state management, and i18n.
 
